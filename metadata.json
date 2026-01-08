@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Vision Context",
+  "description": "A context-aware AI assistant that analyzes your visual environment and user background to provide structured insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
